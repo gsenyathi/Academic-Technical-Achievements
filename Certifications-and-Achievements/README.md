@@ -1,5 +1,3 @@
-# Certifications and Achievements
-This folder contains my professional certifications and achievements.
 TROUBLESHOOTING COMMON PC ISSUES FOR USERS
 AWS SIMULEARN: CORE SECURITY CONCEPTS
 AWS SIMULEARN: NETWORK CONCEPTS
